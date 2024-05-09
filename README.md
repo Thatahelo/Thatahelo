@@ -1,4 +1,4 @@
-Boas vinda ao meu perfil    
+Boas vinda ao meu perfil!    
 meu nome é Thaylla Rodrigues
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
